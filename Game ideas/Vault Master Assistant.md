@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-Develop an AI assistant for dungeon masters that leverages Obsidian and [LangChain](LangChain.md). The assistant will provide functionalities such as [[auto-generating events]], creating a "[[wiki]]" style [[story database]], and offering potential options for players during [[campaigns]]. Additionally, it will feature a website with distinct portals for [[Dungeon masters portal]] and the [[player portal]], which facilitate [[character creation]] and [[management]], and incorporate [[voice-to-text]] capabilities.
+Develop an AI assistant for dungeon masters that leverages Obsidian and [LangChain](LangChain.md). The assistant will provide functionalities such as [[auto-generating events]], creating a "[[wiki]]" style [[story database]], and offering potential options for players during [[campaigns]]. Additionally, it will feature a website with distinct portals for [[Dungeon masters portal]] and the [[Player portal]], which facilitate [[character creation]] and [[management]], and incorporate [[voice-to-text]] capabilities.
 
 ### Key Features
 
