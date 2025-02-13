@@ -1,3 +1,8 @@
 {
-  "show-checkboxes": true
+  "show-checkboxes": true,
+  "link-date-to-daily-note": true,
+  "date-colors": [],
+  "append-archive-date": true,
+  "archive-date-separator": "|",
+  "date-picker-week-start": 1
 }
