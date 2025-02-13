@@ -13,16 +13,14 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban 1.md",
+                "file": "Tasks/Main Daily tasks.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
+                  "list-collapse": []
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban 1"
+              "title": "Main Daily tasks"
             }
           }
         ]
@@ -206,12 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26b5d0d18f547c77",
+  "active": "5167e84ae6fa317b",
   "lastOpenFiles": [
     "Untitled Kanban 1.md",
     "test.md",
+    "Tasks",
     "2025-02-12.md",
-    "Untitled Kanban.md",
+    "Tasks/Main Daily tasks.md",
     "Welcome.md",
     "Workspace"
   ]
