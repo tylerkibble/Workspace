@@ -1,0 +1,3 @@
+Whenever a player experiences a significant event or incident in the game, they receive a list of previous links related to that occurrence via the wiki. This feature ensures that players can easily access and review relevant information, such as previous events, characters involved, and any associated story developments, directly tying their current experiences into the broader narrative of the campaign.
+
+every time an event occurs, the wiki will update that encounter section in the wiki with actions that were taken and prompted. it should also save potential outcomes in the future.

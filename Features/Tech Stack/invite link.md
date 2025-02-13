@@ -1,0 +1,1 @@
+this will send players to an into page about the game the Dungan Master has setup for the party. it will have a short description and give the general idea of what he wants the players to know going into character creation to help guide the story in a given way. 

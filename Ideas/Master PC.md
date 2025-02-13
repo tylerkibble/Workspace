@@ -1,0 +1,1 @@
+This will host the main game files and be the main server host for all of the players to connect to. we can look into setting up cloud solutions once it is working stably on local.
